@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1650400471761.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "221060314",
+    "id" : "E2FCADAD",
+    "lastKnownWriteTime" : 1650576298,
+    "last_content_update" : 1650576298,
+    "path" : "G:/Website/testing3/config/_default/params.yaml",
+    "project_path" : "config/_default/params.yaml",
+    "properties" : {
+        "cursorPosition" : "152,21",
+        "scrollLine" : "90"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

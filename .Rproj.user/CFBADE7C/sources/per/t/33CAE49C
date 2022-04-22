@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1650400469687.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "664723621",
+    "id" : "33CAE49C",
+    "lastKnownWriteTime" : 1650396954,
+    "last_content_update" : 1650396954,
+    "path" : "G:/Website/testing3/config/_default/languages.yaml",
+    "project_path" : "config/_default/languages.yaml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
